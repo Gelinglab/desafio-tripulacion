@@ -1,0 +1,13 @@
+@import 'https://fonts.googleapis.com/css?family=Archivo:300,400,500,600,700';
+@import '../fonts/fonts.scss';
+
+#root {
+    text-align: center;
+    margin:0px auto;
+    min-height: 100vh; 
+    width: 100%;
+}
+
+* {
+    font-family: "Archivo", Arial, Helvetica, sans-serif;
+}
